@@ -45,3 +45,10 @@ function reverseWords(str) {
 }
 
 console.log(reverseWords("Hello world"))
+
+/* 
+function reverseWords(str) {    
+    return str.split(' ').map(e=>e.split('').reverse().join('')).join(' ')
+}
+
+*/
