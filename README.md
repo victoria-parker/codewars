@@ -1,5 +1,5 @@
 # CodeWars Challenges
-This repository is filled with codewars challenges (katas). Currently Ranked #227984 on the global leaderboard, Completed over 70+ challenges and pushed at least 5 solutions every week.
+This repository is filled with codewars challenges (katas). Currently Ranked #124007 on the global leaderboard, Completed over 90+ challenges and pushed at least 5 solutions every week.
 
 **Link to my codewars profile:** https://www.codewars.com/users/victoria-parker
 
