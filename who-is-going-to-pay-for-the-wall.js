@@ -8,3 +8,6 @@ Your code will show Full name of the neighbor and the truncated version of the n
 FUNDAMENTALS STRINGS
 */
 
+function whoIsPaying(name){
+    return name.length > 2 ? [name,name.slice(0,2)] : [name]
+}
