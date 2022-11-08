@@ -1,5 +1,5 @@
 # CodeWars Challenges
-This repository is filled with codewars challenges (katas). Currently Ranked #124007 on the global leaderboard, Completed over 90+ challenges and pushed at least 5 solutions every week.
+This repository is filled with codewars challenges (katas). Currently Ranked #95106 on the global leaderboard, Completed over 120+ challenges and pushed at least 5 solutions every week.
 
 **Link to my codewars profile:** https://www.codewars.com/users/victoria-parker
 
@@ -7,7 +7,7 @@ This repository is filled with codewars challenges (katas). Currently Ranked #12
 
 ## How It's Made:
 
-**Tech used:** JavaScript
+**Tech used:** JavaScript ||  Python
 
 Everyday, the first thing I do is solve a Codewar. We can say I have codewars for breakfast!
 
