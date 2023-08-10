@@ -11,3 +11,12 @@
 # [-56,-85,72,-26,-14,76,-27,72,35,-21,-67,87,0,21,59,27,-92,68] => [-85, 72, 0, 68]
 
 
+def multiple_of_index(arr):
+    acc = []
+    for i in range(len(arr)):
+        if i == 0:
+            if arr[i] == 0:
+                acc.append(arr[i])
+        elif arr[i] % i == 0:
+            acc.append(arr[i])
+    return acc
