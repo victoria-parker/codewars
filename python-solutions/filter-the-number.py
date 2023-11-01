@@ -11,10 +11,15 @@
 
 # STRINGSFUNDAMENTALS
 
+# def filter_string(string):
+#     lst = [*string]
+#     answer =''
+#     for char in lst:
+#         if char.isnumeric():
+#             answer+=char
+#     return int(answer)
+
+# improved
 def filter_string(string):
-    lst = [*string]
-    answer =''
-    for char in lst:
-        if char.isnumeric():
-            answer+=char
-    return int(answer)
+    lst = (n for n in string if n.isnumeric())
+    return int(''.join(lst))
